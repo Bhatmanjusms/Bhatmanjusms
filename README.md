@@ -12,9 +12,6 @@
 
 </div>
 
-<div align="left">
-<h3 align="left"> 📕 Latest Blog Posts<br> </h3>
-
 
 
 
