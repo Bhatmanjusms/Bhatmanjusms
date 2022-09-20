@@ -26,16 +26,7 @@ Comments
 
 
 
-
-
-
-<!---
-here add the available images in this format and add :-: | no of times you add blogs to fix it.
--->
-| <img src="https://phash.dev/imgscout/static/phashlogo.png" alt="Article banner" width="600" /> | <img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="Article banner" width="600" /> 
-| :-: | :-: | 
-| **Phasher Android Library** | **Material Design Pincode in Android with LolliPin Library** |
-| [*Read article*](https://medium.com/@infokaydev/phasher-android-library-7a585720ad55) | [*Read article*](https://www.geeksforgeeks.org/material-design-pincode-in-android-with-lollipin-library/) 
+ 
 
 | ![](https://komarev.com/ghpvc/?username=KapilYadav-dev)<br> |
 | :- |
