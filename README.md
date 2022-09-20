@@ -32,9 +32,9 @@ Comments
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mrkaydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrkaydev" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.kaydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrkadyev" height="30" width="40" /></a>
-<a href="/http://feeds.feedburner.com/blogspot/qgrcv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://feeds.feedburner.com/blogspot/qgrcv" height="30" width="40" /></a>
+
+<a href="https://instagram.com/btmanju_photography" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrkadyev" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">🛠️ Design & Developer Tools :</h3>
