@@ -1,43 +1,24 @@
-<h1 align="center">Hi 👋, I'm Manjunath bhat</h1>
-<br>
-
--  How to reach me **https://t.me/jack_sparow119**
-
-<br>
-
-# ⭐ Stats 
-<div align="center">
-
-[![manjunath's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bhatmanjusms&theme=xcode)](https://github.com/Bhatmanjusms) <br>
-
-</div>
 
 
+<h1 align="center">Hi 👋, I'm Manjunath Bhat</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatmanjusms&label=Profile%20views&color=0e75b6&style=flat" alt="bhatmanjusms" /> </p>
 
+- 🌱 I’m currently learning **python, JavaScript**
 
-<!---
-Comments
--->
+- 💬 Ask me about **python, pyrogram bots**
 
-
+- 📫 How to reach me **bhatmanjusms@gmail.com**
 
  
+ 
 
-| ![](https://komarev.com/ghpvc/?username=Bhatmanjusms)<br> |
-| :- |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhatmanjusms&show_icons=true&locale=en&layout=compact" alt="bhatmanjusms" /></p>
 
-</div>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bhatmanjusms&show_icons=true&locale=en" alt="bhatmanjusms" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://instagram.com/btmanju_photography" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrkadyev" height="30" width="40" /></a>
-
-</p>
-
-## Some Stuff 🤷‍
-
-<br>
-<p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api/?username=Bhatmanjusms" alt="Bhatmanjusms" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatmanjusms&" alt="bhatmanjusms" /></p>
