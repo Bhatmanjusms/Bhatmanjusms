@@ -1,23 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kapil Yadav</h1>
+<h1 align="center">Hi 👋, I'm Manjunath bhat</h1>
 <br>
 
--  All of my projects are available <a href="https://linktr.ee/mrkaydev"> here </a>
+-  How to reach me **https://t.me/jack_sparow119**
 
--  How to reach me **infokaydev@gmail.com**
-
--  Fun fact **I prefer Parle-G with water**
-
--  Eat Big, Lift Bigger
-
--  Augmentation Reality fascinates me
-
--  Exploring Android Devops
 <br>
 
 # ⭐ Stats 
 <div align="center">
 
-[![Kapil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KapilYadav-dev&theme=xcode)](https://github.com/KapilYadav-dev) <br>
+[![manjunath's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bhatmanjusms&theme=xcode)](https://github.com/Bhatmanjusms) <br>
 
 </div>
 
