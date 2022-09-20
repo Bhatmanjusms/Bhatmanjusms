@@ -39,7 +39,5 @@ Comments
 
 ## Some Stuff 🤷‍
 
-<img align="center" src="./assets/git.png?raw=true"/>
-
 <br>
 <p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api/?username=**Bhatmanjusms**" alt="Bhatmanjusms" /></p>
